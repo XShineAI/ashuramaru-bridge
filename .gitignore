@@ -1,3 +1,6 @@
+node_modules
+.env
+
 # http://www.gnu.org/software/automake
 
 Makefile.in
